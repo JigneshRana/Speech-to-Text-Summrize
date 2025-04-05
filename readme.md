@@ -35,7 +35,6 @@ sudo apt install portaudio19-dev python3-dev
 brew install portaudio
 ```
 
-
 ## Installation
 
 1. Clone or download this repository
@@ -52,10 +51,3 @@ brew install portaudio
 ## Configuration
 
 Create a `.env` file in the project root directory with your API keys:
-
-3. Run:
-   ```bash
-   python tts.py #if using assemblyai api
-   python tts2.py #if using google gemini api
-   python tts3.py #if using google gemini api
-   ```

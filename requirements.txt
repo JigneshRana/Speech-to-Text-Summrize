@@ -1,0 +1,9 @@
+assemblyai[extras] #if using assemblyai api
+openai
+elevenlabs
+python-dotenv
+
+#if using google gemini api
+google-generativeai 
+SpeechRecognition 
+pyaudio
